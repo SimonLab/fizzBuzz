@@ -1,0 +1,1 @@
+#Just a Simple FizzBuzz in haskell
